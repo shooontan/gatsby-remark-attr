@@ -21,6 +21,6 @@
     "url": "git+https://github.com/shooontan/gatsby-remark-attr.git"
   },
   "dependencies": {
-    "remark-attr": "^0.6.2"
+    "remark-attr": "^0.8.0"
   }
 }
