@@ -8,13 +8,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "shooontan",
-  "license": "MIT",
+  "license": "GPL-3.0-or-later",
   "keywords": [
     "gatsby",
     "gatsby-plugin",
     "remark",
     "markdown",
     "attribute"
+  ],
+  "files": [
+    "index.js"
   ],
   "repository": {
     "type": "git",
