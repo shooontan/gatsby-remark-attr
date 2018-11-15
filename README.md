@@ -1,5 +1,7 @@
 # gatsby-remark-attr
 
+[![npm version](https://img.shields.io/npm/v/gatsby-remark-attr.svg)](https://www.npmjs.com/package/gatsby-remark-attr)
+
 Add attributes to `MarkdownRemark` using [remark-attr](https://github.com/arobase-che/remark-attr).
 
 ## Install
