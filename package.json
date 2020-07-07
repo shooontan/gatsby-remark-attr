@@ -1,6 +1,6 @@
 {
   "name": "gatsby-remark-attr",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Gatsby remark plugin for adding attribute in markdown",
   "main": "index.js",
   "private": false,
